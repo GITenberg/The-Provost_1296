@@ -1,0 +1,36 @@
+_repo: The-Provost_1296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galt, John
+    aliases:
+    - Goodfellow, Robin
+    - Balwhidder, Micah
+    - Duffle, Thomas
+    - Prior, Samuel, Capt.
+    birthdate: 1779
+    deathdate: 1839
+    gutenberg_agent_id: '588'
+    url: http://www.gutenberg.org/2009/agents/588
+    wikipedia: http://en.wikipedia.org/wiki/John_Galt
+description: ''
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Irvine (Scotland) -- Fiction'
+- !lcsh 'Municipal government -- Fiction'
+- !lcsh 'Merchants -- Fiction'
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'Political fiction'
+- GITenberg
+title: The Provost
+url: http://www.gutenberg.org/ebooks/1296
